@@ -15,6 +15,7 @@ from mysql.connector import Error
 # bet vispārēji ir ļoti lasāms, pat neprasās komentēt, manuprāt
 
 # vajadzētu salikt visu funkcijās/metodēs
+# vajadzetu sakartot šito konstruktoru!
 
 from datetime import datetime
 print('Asteroid processing service')
